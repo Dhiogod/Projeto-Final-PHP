@@ -1,0 +1,16 @@
+{
+    "name": "alunos/loja-comics",
+    "description": "Projeto de uma loja de quadrinhos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhiogo Soares",
+            "email": "dhiogo.kyuubi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}
